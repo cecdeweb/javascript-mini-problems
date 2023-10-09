@@ -1,0 +1,18 @@
+body{
+    font-size: large;
+}
+#yellow-round {
+    display: block;
+    position: absolute;
+    width: 119%;
+    height: 208%;
+    background-color: #F9EA85;
+    border-radius: 46%;
+    right: -11%;
+    top: -149%;
+    z-index: -100;
+}
+li.done{
+    text-decoration: line-through;
+    color: red;
+}
